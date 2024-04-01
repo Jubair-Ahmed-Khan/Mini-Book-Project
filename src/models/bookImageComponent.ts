@@ -1,0 +1,3 @@
+interface BookImageComponentProps {
+  imageUrl: string;
+}

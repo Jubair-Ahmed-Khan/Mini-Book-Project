@@ -1,0 +1,3 @@
+interface BookListProps {
+  books: Book[];
+}

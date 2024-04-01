@@ -1,0 +1,3 @@
+interface BookInfoComponentProps {
+  info: Book
+}
