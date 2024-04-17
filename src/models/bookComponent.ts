@@ -1,3 +1,3 @@
 interface BookComponentProps {
-  book: Book;
+  book: PokemonTCG;
 }

@@ -1,3 +1,4 @@
-interface BookListProps {
-  books: Book[];
-}
+
+// interface BookListProps {
+//   Pokemon[],
+// }

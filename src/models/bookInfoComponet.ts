@@ -1,3 +1,4 @@
 interface BookInfoComponentProps {
-  info: Book
+  info: PokemonTCG,
+  className:string,
 }
