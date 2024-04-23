@@ -7,7 +7,7 @@ import { BookListComponent } from "@/components/BookListComponent";
       <header>
         <HeaderComponent></HeaderComponent>
       </header>
-      <main className="p-10">
+      <main className="p-10 h-screen">
         <BookListComponent >
           
         </BookListComponent>
